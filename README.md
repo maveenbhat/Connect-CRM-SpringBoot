@@ -1,6 +1,6 @@
 # Connect-CRM Spring Boot Web App
 
- This project is a full-stack web application built using modern Java(SpringBoot). \n
+ This project is a full-stack web application built using modern Java(SpringBoot). <br>
  The application is a Customer Relationship Management (CRM) system for managing contacts. It features:
 
 - A log-in screen to restrict access.

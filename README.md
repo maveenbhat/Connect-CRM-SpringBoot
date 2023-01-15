@@ -1,7 +1,25 @@
 # Connect-CRM Spring Boot Web App
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+ This project is a full-stack web application built using modern Java(SpringBoot). \n
+ The application is a Customer Relationship Management (CRM) system for managing contacts. It features:
+
+- A log-in screen to restrict access.
+
+- A responsive layout with side navigation that works on desktop and mobile.
+
+- A database for persistent data storage.
+
+- A list view that can be sorted and filtered.
+
+- A form to edit and add contacts.
+
+- A dashboard view.
+
+- Cloud deployment.
+
+- Application installation on mobile and desktop.
+
+
 
 ## Running the application
 
@@ -25,8 +43,7 @@ Once the JAR file is built, you can run it using
 ## Project structure
 
 - `MainLayout.java` in `src/main/java` contains the navigation setup (i.e., the
-  side/top bar and the main menu). This setup uses
-  [App Layout](https://vaadin.com/docs/components/app-layout).
+  side/top bar and the main menu). 
 - `views` package in `src/main/java` contains the server-side Java views of your application.
 - `views` folder in `frontend/` contains the client-side JavaScript views of your application.
 - `themes` folder in `frontend/` contains the custom CSS styles.

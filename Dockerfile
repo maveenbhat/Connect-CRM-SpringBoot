@@ -1,3 +1,4 @@
+"Komment Demo Task"
 Komment Demo Task
 FROM openjdk:17-jdk-slim
 COPY target/*.jar app.jar
